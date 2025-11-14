@@ -1,0 +1,5 @@
+Service,Actions
+EC2,"ec2:DescribeInstances, ec2:DescribeRegions"
+EKS,"eks:ListClusters, eks:DescribeCluster"
+RDS,rds:DescribeDBInstances
+S3,s3:ListAllMyBuckets
